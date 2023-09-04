@@ -9,4 +9,4 @@ who script는 엔트리 다음으로 쉽게 만드는 것이 목표입니다.<br
 > who는 무조건 쉽게 프로그래밍하라! - who 개발자 -
 ## who shell에 대해...
 ## 기타
-[팬덤위키:기바토](https://giyvahtow.fandom.com/who(프로그램))
+[팬덤위키:기바토](https://giyvahtow.fandom.com/ko/who(프로그램))
